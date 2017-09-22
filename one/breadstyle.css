@@ -1,0 +1,22 @@
+body {
+  background: #833;
+  font-size: 14px;
+}
+
+h1 {
+  color: #833;
+  background-color: white;
+  text-transform: uppercase;
+}
+h2 {
+  color: white;
+  background-color: #833;
+}
+h3 {
+  text-decoration: underline;
+}
+<style>
+div {
+    display: block;
+}
+</style>

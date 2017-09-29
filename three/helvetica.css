@@ -1,0 +1,89 @@
+
+body {
+  background: white;
+  font-size: 18px;
+  font-weight: 500
+}
+.header {
+  font-family: "Helvetica", "Arial";
+  font-size: 50px;
+  display: flex;
+  background: black;
+  color: white;
+  padding: 50px;
+}
+h1 {
+  background-color: white;
+  text-transform: uppercase;
+}
+
+h2 {
+  align-items: center;
+  color: white;
+  background-color: #blue;
+}
+.story{
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: center;
+  margin: 50px;
+}
+.medium{
+  font-family: "Helvetica", "Arial";
+  font-weight: 500;
+  font-size: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: black;
+  color: white;
+  padding: 50px;
+}
+
+.light{
+  font-family: "Helvetica", "Arial";
+  font-weight: 300;
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: black;
+  color: white;
+  padding: 50px;
+}
+.bold{
+  font-family: "Helvetica", "Arial";
+  font-weight: 800;
+  font-size: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: black;
+  color: white;
+  padding: 50px;
+}
+.italic{
+  font-family: "Helvetica", "Arial";
+  font-style: italic;
+  font-weight: 800;
+  font-size: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: black;
+  color: white;
+  padding: 50px;
+}
+.specialcharacters{
+  font-family: "Helvetica", "Arial";
+  font-weight: 300;
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: black;
+  color: white;
+  padding: 50px;
+}

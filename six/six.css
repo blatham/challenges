@@ -1,0 +1,14 @@
+.roll,
+.dog{
+  background: #9eebcf;
+  font-size: 200px;
+  font-family: Helvetica;
+  display: inline-block;
+  transition: all 3s ease-out;
+    }
+.roll:hover{
+  transform: rotate(180deg);
+}
+.dog:hover{
+  transform: scale(2);
+}

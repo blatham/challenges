@@ -4,6 +4,7 @@
   font-size: 200px;
   font-family: Helvetica;
   display: inline-block;
+  align-items: center;
   transition: all 3s ease-out;
     }
 .roll:hover{
